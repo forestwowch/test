@@ -7,7 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>git테스트</h1>
+	<h1>git 테스트</h1>
 	<hr>
+	<p>내용을 추가함</p>
 </body>
 </html>
